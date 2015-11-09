@@ -1,5 +1,5 @@
 # Exploratory Data Analysis
 
-Repo to contain code for Coursera's Exploratory Data Analysis course, using the R programming language.
+Repo containing code for Coursera's Exploratory Data Analysis course.
 
 See `/courseproject1` for code related to that course project.
